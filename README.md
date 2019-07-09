@@ -30,6 +30,9 @@
 
 <h2>Instructional Demo</h2>
 
+- NOTE: The front end is not included in public/foss version of firewall, but the funcionality of the system is the same.
+Edit json files accordingly to implement specific system controls, eg whitelist, blacklist, dns records, etc.
+
 <h3 align="center">
 	<a href="http://www.youtube.com/watch?feature=player_embedded&v=6NvRXlNjpOc" target="_blank">
 		<img src="http://img.youtube.com/vi/6NvRXlNjpOc/0.jpg" alt="DNX Firewall Demo" width="480" height="360" border="10" />
