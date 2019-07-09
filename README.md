@@ -14,7 +14,7 @@
 
 <h4>Bought to you by: DOWRIGHT</h4>
 
-<h2>Before Reunning</h2>
+<h2>Before Running</h2>
 
 - [+] Edit data/config.json to reflect your system
 
